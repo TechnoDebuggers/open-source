@@ -10,7 +10,7 @@ high_score = 0
 win = turtle.Screen()
 win.title("🐍 Snake Game by Techno Debuggers")
 win.bgcolor("black")
-win.setup(width=600, height=600)
+win.setup(width=700, height=700)
 win.tracer(0)  # Turns off the screen updates
 
 # Snake head
@@ -26,7 +26,7 @@ head.direction = "stop"
 food = turtle.Turtle()
 food.speed(0)
 food.shape("circle")
-food.color("red")
+food.color("green")
 food.penup()
 food.goto(0, 100)
 
