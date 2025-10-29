@@ -1,4 +1,4 @@
-# 🧠 Techno Debuggers
+# 🧠 Techno Debuggers Club
 
 Welcome to **Techno Debuggers**, an open-source organization dedicated to empowering students and developers to learn, collaborate, and innovate in the field of software development.  
 We organize technical events and workshops that focus on **Git**, **GitHub**, **SDLC (Software Development Life Cycle)**, and practical project-based learning.
